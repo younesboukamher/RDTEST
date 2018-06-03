@@ -1,0 +1,4 @@
+[submodule "vimit/subscription_auto_payment"]
+	path = vimit/subscription_auto_payment
+	url = git@github.com:vimit/subscription_auto_payment.git
+	branch = master
