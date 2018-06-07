@@ -17,3 +17,8 @@
 	path = vimit/DrAnytime_interest_invoices
 	url = git@github.com:vimit/DrAnytime_interest_invoices.git
 	branch = master
+
+[submodule "vimit/inv_interest"]
+	path = vimit/inv_interest
+	url = git@github.com:vimit/inv_interest.git
+	branch = master
