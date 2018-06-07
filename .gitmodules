@@ -7,3 +7,8 @@
 	path = vimit/DrAnytime_interest_invoice
 	url = git@github.com:vimit/DrAnytime_interest_invoice.git
 	branch = master
+
+[submodule "vimit/Sale_subscription_forecast"]
+	path = vimit/Sale_subscription_forecast
+	url = git@github.com:vimit/Sale_subscription_forecast.git
+	branch = master
