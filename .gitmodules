@@ -1,0 +1,24 @@
+[submodule "vimit/subscription_auto_payment"]
+	path = vimit/subscription_auto_payment
+	url = git@github.com:vimit/subscription_auto_payment.git
+	branch = master
+
+[submodule "vimit/DrAnytime_interest_invoice"]
+	path = vimit/DrAnytime_interest_invoice
+	url = git@github.com:vimit/DrAnytime_interest_invoice.git
+	branch = master
+
+[submodule "vimit/Sale_subscription_forecast"]
+	path = vimit/Sale_subscription_forecast
+	url = git@github.com:vimit/Sale_subscription_forecast.git
+	branch = master
+
+[submodule "vimit/DrAnytime_interest_invoices"]
+	path = vimit/DrAnytime_interest_invoices
+	url = git@github.com:vimit/DrAnytime_interest_invoices.git
+	branch = master
+
+[submodule "vimit/inv_interest"]
+	path = vimit/inv_interest
+	url = git@github.com:vimit/inv_interest.git
+	branch = master
