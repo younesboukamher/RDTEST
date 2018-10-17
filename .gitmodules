@@ -1,14 +1,3 @@
-[submodule "vimit/subscription_auto_payment"]
-	path = vimit/subscription_auto_payment
-	url = git@github.com:vimit/subscription_auto_payment.git
-	branch = master
-
-[submodule "vimit/Sale_subscription_forecast"]
-	path = vimit/Sale_subscription_forecast
-	url = git@github.com:vimit/Sale_subscription_forecast.git
-	branch = master
-
-
 [submodule "vimit/subscription_forecast"]
 	path = vimit/subscription_forecast
 	url = https://github.com/vimit/subscription_forecast.git
