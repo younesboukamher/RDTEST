@@ -1,4 +1,4 @@
-[submodule "vimit/subscription_forecast"]
-	path = vimit/subscription_forecast
+[submodule "testname/subscription_forecast"]
+	path = testname/subscription_forecast
 	url = https://github.com/vimit/subscription_forecast.git
 	branch = master
