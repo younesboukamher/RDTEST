@@ -2,3 +2,8 @@
 	path = vimit/subscription_forecast
 	url = git@github.com:vimit/subscription_forecast.git
 	branch = master
+
+[submodule "vimit/unknown_test"]
+	path = vimit/unknown_test
+	url = git@github.com:vimit/unknown_test.git
+	branch = master
